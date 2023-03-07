@@ -1,3 +1,4 @@
+# codigo sqlite com python
 import sqlite3
 
 conexao = sqlite3.connect('db')
